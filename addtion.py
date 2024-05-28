@@ -1,4 +1,4 @@
 a=2
-b=3
+b=4
 d=a+b
 print d
