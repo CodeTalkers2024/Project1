@@ -1,4 +1,4 @@
 a=90
-b=2
+b=20
 d=a+b
 print d
